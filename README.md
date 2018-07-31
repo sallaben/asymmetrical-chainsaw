@@ -1,5 +1,5 @@
-# symmetrical-octo-chainsaw
-Tropical Storm Visualization & Analysis:
+# asymmetrical-chainsaw
+Tropical Storm Visualization & Analysis
 
 Visualize tropical storms and forecasts in real time.
 Identify areas of high impact using heatmaps.
