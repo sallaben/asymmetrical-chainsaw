@@ -2,7 +2,7 @@
 Tropical Storm Visualization & Analysis:
 
 Visualize tropical storms and forecasts in real time.
-Identify areas of high impact using data heatmaps.
+Identify areas of high impact using heatmaps.
 Export the impacted subset of ZIP areas to a single file.
 
 
