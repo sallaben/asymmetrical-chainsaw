@@ -1,5 +1,10 @@
 # symmetrical-octo-chainsaw
-Tropical Storm Visualization & Analysis
+Tropical Storm Visualization & Analysis:
+
+Visualize tropical storms and forecasts in real time.
+Identify areas of high impact using data heatmaps.
+Export the impacted subset of ZIP areas to a single file.
+
 
 ## Installation
 
